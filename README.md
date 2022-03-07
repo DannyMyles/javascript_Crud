@@ -2,9 +2,8 @@
 This is a simple CRDU javascrip Operation
 
 
-## Get the Code [https://github.com/DannyMyles/javascript_Crud.git]
+### Get the Code [https://github.com/DannyMyles/javascript_Crud.git]
 
-```
 $ git clone
 
  ## How it works ?
