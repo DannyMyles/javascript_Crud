@@ -1,44 +1,45 @@
 # JAVASCRIPT CRUD
 This is a simple CRDU javascrip Operation
-  
 
-## Get the Code
+
+## Get the Code [https://github.com/DannyMyles/javascript_Crud.git]
 
 ```
-$ git clone 
+$ git clone
 
  ## How it works ?
 
  - Fill the form to add an employee
  - Click the Edit link to edit
  - You can also confirm to delete an employee
- 
- 
-A website on my portfolio that has my experience,skills,my image {Date March 2022}
-## {List of contributors}
-Danny Myles
 
-### Description
-This is a website on my portfolio,it is supposed to help other people know about me,what I can do and my personal expeririences,in other words, it is like my resume.
 
-## Check out the website
-[https://dannymyles.github.io/Portforlio_landingpage/]
-### Setup/Installation Requirements
-Git
-VisiualStudio code
-GitHub
+# Project Setup Instructions
 
-## Known Bugs
-Since it is a one-page website, I had a problem deciding where to place my image.
+* Clone the repository and modify the content of index.html according to your requirement.
+* I highly recommend to use Github Pages to deploy the website the EASIEST WAY.
+* To deploy your website, first you need to create github repository with name <your-github-username>.github.io/
+* Push the generated code to the master branch of this repository.
 
-## Technologies Used
-HTML  and CSS-- front-end
-Javascript --backend
-### Support and contact details
-If you have any issues, questions, ideas or concerns, feel free to contact.
-{Email: dannymyles1999@gmail.com}
+# **Technologies used**
 
-### License
-see License file Copyright (c) {2021}
-## Website Design
-see Website Design file
+- font-awesome
+- OwlCarousel2/2.3.4
+- Javascript
+
+## Bugs.
+- There is no bug .
+
+# **Developer or Author Name**
+- Danny Myles
+- Github -- DannyMyles
+
+## **Contact information.**
++  ["https://github.com/DannyMyles" ]
+
++  [ Email:"https://mail.google.com/mail/u/0/#inbox" ]
+
+## **License and Copyright information.**
+
+Copyright(c) 2022 Danny Myles.
+ Licensed under the MIT license.
