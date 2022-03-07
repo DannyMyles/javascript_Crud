@@ -2,7 +2,12 @@ body > table{
     width: 80%;
     margin-left: 10%;
     margin-top: 5%;
-    background-color: #a2b4b9;
+    background-color: #b1babd;
+}
+
+h1,p{
+    text-align: center;
+    margin-top: 5%;
 }
 
 table{
@@ -13,12 +18,12 @@ table.list{
 }
 
 td, th {
-    border: 1px solid #6e6969;
+    border: 1px solid #b5e8f5;
     text-align: left;
     padding: 8px;
 }
 tr:nth-child(even),table.list thead>tr {
-    background-color: #686464;
+    background-color: #9dc1cc;
 }
 
 input[type=text], input[type=number] {
@@ -33,12 +38,12 @@ input[type=text], input[type=number] {
 
 input[type=submit]{
     width: 30%;
-    background-color: rgb(131, 123, 123);
+    background-color: rgb(51, 135, 212);
     color: #000;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
-    border-radius: 4px;
+    border-radius: 8px;
     cursor: pointer;
 }
 
