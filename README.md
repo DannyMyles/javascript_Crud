@@ -2,7 +2,7 @@
 This is a simple CRDU javascrip Operation
 
 
-### Get the Code [https://github.com/DannyMyles/javascript_Crud.git]
+### Get the live link [https://github.com/DannyMyles/javascript_Crud.git]
 
 $ git clone
 
