@@ -8,9 +8,9 @@ $ git clone
 
  ## How it works ?
 
- - Fill the form to add an employee
+ - Fill the form to add a student
  - Click the Edit link to edit
- - You can also confirm to delete an employee
+ - You can also confirm to delete a student
 
 
 # Project Setup Instructions
